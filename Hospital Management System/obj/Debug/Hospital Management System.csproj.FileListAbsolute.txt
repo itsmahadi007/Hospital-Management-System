@@ -1,0 +1,91 @@
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe.config
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.pdb
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csprojResolveAssemblyReference.cache
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Form1.resources
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Properties.Resources.resources
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csproj.GenerateResource.Cache
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.exe
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.pdb
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Dash_Board.resources
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Doctor.resources
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Billing.resources
+c:/users/abdul basit khan/documents/visual studio 2013/Projects/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Wardboy.resources
+C:/Users/ZAHID/Downloads/Compressed/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe.config
+C:/Users/ZAHID/Downloads/Compressed/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.exe
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe.config
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.exe
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.pdb
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/bin/Debug/hospital.mdf
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/bin/Debug/hospital_log.ldf
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.pdb
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csprojResolveAssemblyReference.cache
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.BillDelete.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Billing.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Dash_Board.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Doctor.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.DoctorDelete.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Form1.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Properties.Resources.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Wardboy.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.wardBoyDelete.resources
+C:/Users/hp/Desktop/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csproj.GenerateResource.Cache
+/mnt/Work/C#/Hospital Management System/Hospital Management System/bin/Debug/hospital.mdf
+/mnt/Work/C#/Hospital Management System/Hospital Management System/bin/Debug/hospital_log.ldf
+/mnt/Work/C#/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe.config
+/mnt/Work/C#/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.exe
+/mnt/Work/C#/Hospital Management System/Hospital Management System/bin/Debug/Hospital Management System.pdb
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csprojResolveAssemblyReference.cache
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.PatientDelete.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Patient.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Dash_Board.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Doctor.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.DoctorDelete.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Form1.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Properties.Resources.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.Wardboy.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital_Management_System.wardBoyDelete.resources
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csproj.GenerateResource.Cache
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.csproj.CoreCompileInputs.cache
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.exe
+/mnt/Work/C#/Hospital Management System/Hospital Management System/obj/Debug/Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\bin\Debug\hospital.mdf
+E:\Hospital Management System\Hospital Management System\bin\Debug\hospital_log.ldf
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientDelete.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Patient.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Dash_Board.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorDelete.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form1.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Wardboy.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.wardBoyDelete.resources
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.manifest
+E:\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.application
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.TrustInfo.xml
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe.manifest
+E:\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.application
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientDelete.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Patient.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Dash_Board.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorDelete.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form1.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Wardboy.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.wardBoyDelete.resources
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.TrustInfo.xml
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\Project\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb

@@ -1,0 +1,23 @@
+E:\Hospital Management System\Hospital Management System\bin\Release\hospital.mdf
+E:\Hospital Management System\Hospital Management System\bin\Release\hospital_log.ldf
+E:\Hospital Management System\Hospital Management System\bin\Release\Hospital Management System.exe.config
+E:\Hospital Management System\Hospital Management System\bin\Release\Hospital Management System.exe
+E:\Hospital Management System\Hospital Management System\bin\Release\Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.PatientDelete.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.Patient.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.Dash_Board.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.Doctor.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.DoctorDelete.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.Form1.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.Properties.Resources.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.Wardboy.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital_Management_System.wardBoyDelete.resources
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.csproj.GenerateResource.cache
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.csproj.CoreCompileInputs.cache
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.exe
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.pdb
+E:\Hospital Management System\Hospital Management System\bin\Release\Hospital Management System.exe.manifest
+E:\Hospital Management System\Hospital Management System\bin\Release\Hospital Management System.application
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.TrustInfo.xml
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.exe.manifest
+E:\Hospital Management System\Hospital Management System\obj\Release\Hospital Management System.application
